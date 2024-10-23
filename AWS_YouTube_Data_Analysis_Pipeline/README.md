@@ -1,4 +1,4 @@
-# Data Engineering YouTube Analysis Project by Sudheer Kumar
+# Data Engineering YouTube Analysis Project
 
 ## Overview
 
